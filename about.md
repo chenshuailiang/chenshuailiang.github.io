@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 关于
+permalink:
 ---
 
-Some information about you!
+记录陈先生与石小姐的点点滴滴
 
-### More Information
+### 电子邮件
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[chenshuailiang@w118.cn](mailto:chenshuailiang@w118.cn)
